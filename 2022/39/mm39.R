@@ -4,7 +4,7 @@ library(ggbeeswarm)
 library(ggdist)
 library(here)
 
-base_path <- here("makeover-monday")
+base_path <- here("2022", "39")
 
 data_url <- "https://raw.githubusercontent.com/EDJNet/internet_speed/main/data/nuts_3/nuts_3_2022_2.csv"
 # data_url <- "https://raw.githubusercontent.com/EDJNet/internet_speed/main/data/nuts_2/nuts_2_2022_2.csv"
